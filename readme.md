@@ -33,4 +33,4 @@ jobs:
 ```
 
 ## Stars 🌟
-[![Stars](https://starchart.cc/action-pack/gitlab-sync.svg?variant=adaptive)](https://starchart.cc/action-pack/gitlab-sync)
+![Stargazers](https://raw.githubusercontent.com/star-stats/stars/refs/heads/data/charts/action-pack-gitlab-sync.svg)
