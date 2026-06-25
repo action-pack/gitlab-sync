@@ -33,4 +33,4 @@ jobs:
 ```
 
 ## Stars 🌟
-![Stargazers](https://raw.githubusercontent.com/star-stats/stars/refs/heads/data/charts/action-pack-gitlab-sync.svg)
+[![Stargazers](https://raw.githubusercontent.com/star-stats/stars/refs/heads/data/charts/action-pack-gitlab-sync.svg)](https://github.com/action-pack/gitlab-sync/stargazers)
